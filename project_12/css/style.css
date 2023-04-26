@@ -64,7 +64,7 @@ body{
 .rent__item-title {
     font-weight: 700;
     font-size: 18px;
-    font-weight: 18;
+    font-weight: 18px;
 }
 @media(max-width:1250px){
     .rent__inner{
