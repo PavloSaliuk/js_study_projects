@@ -26,8 +26,8 @@
     outline: none;
     border: none;
     background: transparent;
-    border-top: 2px solid fefefe;
-    border-bottom: 2px solid fefefe;
+    border-top: 2px solid #fefefe;
+    border-bottom: 2px solid #fefefe;
     position: relative;
 }
 .menu__btn::before{

@@ -3,7 +3,7 @@
     box-sizing: border-box;
 }
 body{
-    font-family:'Roboto' sans-serif;
+    font-family: sans-serif;
     background-color: #e5e5e5;
     display: flex;
     justify-content: center;
